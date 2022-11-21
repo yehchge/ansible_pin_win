@@ -1,0 +1,2 @@
+[windows]
+Servers15 ansible_host=172.16.2.15 ansible_user=galaxytw ansible_password=pass123456 ansible_port=5985 ansible_connection=winrm ansible_winrm_transport=basic ansible_winrm_server_cert_validation=ignore
